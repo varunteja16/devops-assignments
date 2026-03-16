@@ -3,7 +3,7 @@ TuteDude - DevOps Assignments
 
 Assignment 1 :white_check_mark:
 
-Assignment 2 :x:
+Assignment 2 :white_check_mark:
 
 Assignment 3 :x:
 
